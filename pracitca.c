@@ -5,7 +5,7 @@ int main (){
         printf("Nota %d: %.1f\n", i + 1, notas[i]);
     }
 
-    return 0;
+    return 0; 
 
 }
 
